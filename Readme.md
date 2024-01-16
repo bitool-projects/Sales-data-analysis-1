@@ -1,6 +1,6 @@
 # Project Title
 
-This Project helps you maintain student data.
+This Project Create a dashboard for Sales Data analysis.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
