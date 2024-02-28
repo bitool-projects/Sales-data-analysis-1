@@ -1,6 +1,6 @@
 # Sales Data analysis
 
-This Project Create a dashboard for Sales Data analysis.
+This Project Create a dashboard in Power BI for Sales Data analysis by Montu Chavda Bsc. Fintech.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
